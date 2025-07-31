@@ -225,3 +225,7 @@ For issues and questions:
 ---
 
 **Note**: This system is designed for educational and small-scale deployment purposes. For production use, additional security measures and optimizations may be required.
+
+## credits 
+The Face Anti-Spoofing model was originally developed by hairymax and is available on GitHub: https://github.com/hairymax/Face-AntiSpoofing.git.
+I have made modifications to the video_predict.py file to ensure compatibility with my module and specific requirements..
