@@ -202,7 +202,7 @@ def on_main_close():
 
 
 
-heading_label= tk.Label(window,text="Persnol information",font=("Helvetica",25,"bold"),fg="#2744df", bg="#f1f2f8")
+heading_label= tk.Label(window,text="Personal information",font=("Helvetica",25,"bold"),fg="#2744df", bg="#f1f2f8")
 
 UserId_label= tk.Label(window,text="User ID*",font=("Segoe UI",12),fg="#aaaddb",bg="#f1f2f8")
 UserId_enter= tk.Entry(window, font=("Arial",17),fg="#434c6a", textvariable=user_var,bd=0,relief="solid")
